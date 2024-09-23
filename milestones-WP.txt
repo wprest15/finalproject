@@ -1,0 +1,12 @@
+Rubric:
+10 points - Research
+20 points - Implementation of program
+10 points - Debugging and presentation
+
+Rough plan for the timetable of working on project:
+- Research the idea for our project
+   Idea right now: 2D platformer video game
+- When current class projects are complete, commit a few hours per week to the project
+- In late October, have a strong implementation of the programs
+- Spend the remaining time debugging and testing for errors, then prepare for presentation
+- Required time for each partner: about 20 hours for total project, but probably more for debugging
