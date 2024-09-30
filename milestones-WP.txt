@@ -8,5 +8,9 @@ Rough plan for the timetable of working on project:
    Idea right now: 2D platformer video game
 - When current class projects are complete, commit a few hours per week to the project
 - In late October, have a strong implementation of the programs
-- Spend the remaining time debugging and testing for errors, then prepare for presentation
+- Spend the remaining time debugging and testing for errors, then prepare for a presentation
 - Required time for each partner: about 20 hours for total project, but probably more for debugging
+
+For this project, we really want to assign tasks to each other while sharing the same programs so we can see the progress
+and help each other when there is an issue with creating the project. A timetable will probably look like starting the work pretty early,
+so we have plenty of time for debugging.
